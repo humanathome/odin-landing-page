@@ -5,3 +5,4 @@ The goal is to create the project as close to the given design (preferably using
 the placeholders with your own content.
 Design template, together with colors and fonts, can be found in the **directions** folder.
 
+Live Preview: https://humanathome.github.io/odin-landing-page/
